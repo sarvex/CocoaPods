@@ -102,7 +102,7 @@ GEM
     colored (1.2)
     crack (0.4.2)
       safe_yaml (~> 1.0.0)
-    diffy (3.0.7)
+    diffy (3.4.2)
     escape (0.0.4)
     ffi (1.9.6)
     fuzzy_match (2.0.4)
